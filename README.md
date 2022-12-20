@@ -1,12 +1,12 @@
 # HomePage
 
-[![deploy homepage](https://github.com/shubxam/homepage/actions/workflows/deploy.yml/badge.svg)](https://github.com/shubxam/homepage/actions/workflows/deploy.yml)
-[![pages-build-deployment](https://github.com/shubxam/homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/shubxam/homepage/actions/workflows/pages/pages-build-deployment)
-![GitHub last commit](https://img.shields.io/github/last-commit/shubxam/homepage?style=plastic)
+[![deploy homepage](https://github.com/shubxam/homepage-work/actions/workflows/deploy.yml/badge.svg)](https://github.com/shubxam/homepage-work/actions/workflows/deploy.yml)
+[![pages-build-deployment](https://github.com/shubxam/homepage-work/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/shubxam/homepage-work/actions/workflows/pages/pages-build-deployment)
+![GitHub last commit](https://img.shields.io/github/last-commit/shubxam/homepage-work?style=plastic)
 
 ![Screenshot of HomePage](screenshot.jpg "Screenshot of HomePage")
 
-This is my personal homepage and the generator for it.
+This is my work homepage and the generator for it.
 It's styled after a monochrome periodic table and has some simple fade-in animations.
 
 ## Generating the home page
