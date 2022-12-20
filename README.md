@@ -7,7 +7,8 @@
 ![Screenshot of HomePage](screenshot.jpg "Screenshot of HomePage")
 
 This is my work homepage and the generator for it.
-It's styled after a monochrome periodic table and has some simple fade-in animations.
+It's styled after a monochrome periodic table and has some simple fade-in animations. \
+View the website [here](https://shubxam.github.io/homepage-work/)
 
 ## Generating the home page
 
